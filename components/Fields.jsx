@@ -4,7 +4,7 @@ import Image from "next/image";
 function Fields() {
   return (
     <div className="md:px-5 w-[95%] lg:w-[90%] relative mx-auto lg:mt-20 md:mt-[100px]">
-      <p className="text-2xl     font-semibold text-center">FIELDS WE  WORK IN</p>
+      <p className="text-2xl     font-semibold text-center">FIELDS WE WORK IN</p>
       {/* Web Development */}
       <div className="grid grid-cols-2 mx-auto  grid-col my-5  gap-5 md:grid-cols-1 items-center py-5">
         <div className="w-10/12 ">
@@ -30,7 +30,7 @@ function Fields() {
           <p className="font-semibold md:text-xl text-6xl lg:mb-5">DSA And CP</p>
           <p>
             DSA (Data Structures and Algorithms) is the study of organizing and
-            manipulating data efficiently to perform complex computations
+            manipulating data efficiently to perform complex computations.
             Competitive programming is a sport of coding where individuals or
             teams solve algorithmic problems in a timed competition using DSA
             skills, and quick thinking to solve problems within constraints.
